@@ -1,0 +1,21 @@
+WELCOME to the USER MANUAL OF UHsquare HOSPITAL MANAGEMENT SYSTEM
+
+This program helps a  hospital staff member (i.e doctor ,manager, clercks etc)
+
+Installation:
+just extract the project in any desired destination and start working
+
+Functions:
+The program provides following functions
+-edit data (for doctor patient and manager)
+-view data
+-view report
+-setappointment
+-billing
+-ward details
+-department details 
+
+USE:
+The use is easy and handy 
+one just need to click the desired button and perform the desirede operation
+once the user clicks the button he/she will get theoutput on the console window and the program prompts the person to perform a input and use the desired button and use the software easily

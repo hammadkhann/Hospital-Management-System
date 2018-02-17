@@ -1,0 +1,57 @@
+﻿Build started 01/05/2015 10:44:31.
+     1>Project "C:\Users\Umair\Documents\Visual Studio 2013\Projects\Project4\Project4\Project4.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib deletedocadddocfunctio.cpp departmentfunction.cpp doctorfunctions.cpp MyForm.cpp MyForm1.cpp MyForm2.cpp MyForm3.cpp patientfunctions.cpp wardfunction.cpp
+         deletedocadddocfunctio.cpp
+         departmentfunction.cpp
+         doctorfunctions.cpp
+         MyForm.cpp
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(167): error C2065: 'MyForm3' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(167): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(167): error C2061: syntax error : identifier 'MyForm3'
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(168): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(168): error C2227: left of '->ShowDialog' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(156): error C2065: 'MyForm' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(156): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(156): error C2061: syntax error : identifier 'MyForm'
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(157): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(157): error C2227: left of '->ShowDialog' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+         MyForm1.cpp
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(147): error C2065: 'MyForm3' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(147): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(147): error C2061: syntax error : identifier 'MyForm3'
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(148): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(148): error C2227: left of '->ShowDialog' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(161): error C2065: 'MyForm1' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(161): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(161): error C2061: syntax error : identifier 'MyForm1'
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(162): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm3.h(162): error C2227: left of '->ShowDialog' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+         MyForm2.cpp
+         MyForm3.cpp
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(147): error C2065: 'MyForm3' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(147): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(147): error C2061: syntax error : identifier 'MyForm3'
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(148): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm.h(148): error C2227: left of '->ShowDialog' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(167): error C2065: 'MyForm3' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(167): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(167): error C2061: syntax error : identifier 'MyForm3'
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(168): error C2065: 'forp' : undeclared identifier
+     1>c:\users\umair\documents\visual studio 2013\projects\project4\project4\MyForm1.h(168): error C2227: left of '->ShowDialog' must point to class/struct/union/generic type
+                 type is 'unknown-type'
+         patientfunctions.cpp
+         wardfunction.cpp
+     1>wardfunction.cpp(12): warning C4101: 'i' : unreferenced local variable
+     1>wardfunction.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+     1>Done Building Project "C:\Users\Umair\Documents\Visual Studio 2013\Projects\Project4\Project4\Project4.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:46.45

@@ -1,0 +1,37 @@
+﻿Build started 5/7/2015 6:31:25 PM.
+     1>Project "E:\Second semester work\CP\project\Project4\Project4\Project4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib deletedocadddocfunctio.cpp departmentfunction.cpp doctorfunctions.cpp MyForm.cpp MyForm1.cpp MyForm2.cpp MyForm3.cpp patientfunctions.cpp wardfunction.cpp
+         deletedocadddocfunctio.cpp
+         departmentfunction.cpp
+         doctorfunctions.cpp
+         MyForm.cpp
+         MyForm1.cpp
+         MyForm2.cpp
+         MyForm3.cpp
+         patientfunctions.cpp
+         wardfunction.cpp
+     1>wardfunction.cpp(12): warning C4101: 'i' : unreferenced local variable
+     1>wardfunction.cpp(168): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\FiveStar\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Second semester work\CP\project\Project4\Debug\Project4.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project4.MyForm.resources /ASSEMBLYRESOURCE:Debug\Project4.MyForm1.resources /ASSEMBLYRESOURCE:Debug\Project4.MyForm2.resources /ASSEMBLYRESOURCE:Debug\Project4.MyForm3.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Second semester work\CP\project\Project4\Debug\Project4.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\deletedocadddocfunctio.obj
+         Debug\departmentfunction.obj
+         Debug\doctorfunctions.obj
+         Debug\MyForm.obj
+         Debug\MyForm1.obj
+         Debug\MyForm2.obj
+         Debug\MyForm3.obj
+         Debug\patientfunctions.obj
+         Debug\wardfunction.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Project4.vcxproj -> E:\Second semester work\CP\project\Project4\Debug\Project4.exe
+       GenerateSatelliteAssemblies:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\AL.exe /culture:sq /out:"E:\Second semester work\CP\project\Project4\Debug\sq\Project4.resources.dll" /platform:x86 /template:"E:\Second semester work\CP\project\Project4\Debug\Project4.exe" /embed:Debug\Project4.MyForm.sq.resources
+     1>Done Building Project "E:\Second semester work\CP\project\Project4\Project4\Project4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:43.87
